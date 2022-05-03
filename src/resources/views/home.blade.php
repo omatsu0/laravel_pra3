@@ -10,6 +10,10 @@
     <p>Welcome to this beautiful admin panel.</p>
 @stop
 
+@section('footer')
+aiueo
+@stop
+
 @section('js')
     <script> console.log('Hi!'); </script>
 @stop
